@@ -2,8 +2,6 @@
 
 Kho lưu trữ này ghi lại hành trình học tập và các thử nghiệm của tôi với LangChain.
 
-## Các chủ đề
-
 ### 1. Mô hình Chat (Chat Models)
 
 - Mô hình Chat của OpenAI
