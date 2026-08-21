@@ -8,6 +8,7 @@ Kho lưu trữ này ghi lại hành trình học tập và các thử nghiệm c
 - Thử nghiệm nhiều mô hình khác nhau
 - Xử lý tin nhắn
 - Cấu hình mô hình
+- Lưu trữ dữ liệu với Firestore
 
 ### 2. Mẫu Prompt (Prompt Templates)
 
