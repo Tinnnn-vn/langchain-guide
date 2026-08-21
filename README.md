@@ -1,6 +1,6 @@
 # LangChain Từ Cơ Bản
 
-Kho lưu trữ này ghi lại hành trình học tập và các thử nghiệm của tôi với LangChain.
+Kho lưu trữ này ghi lại hành trình học tập và các thử nghiệm của mình với LangChain.
 
 ### 1. Mô hình Chat (Chat Models)
 
