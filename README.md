@@ -1,6 +1,6 @@
 # Tổng Quan
 
-### 1. Mô hình Chat (Chat Models)
+### 1. Mô hình Chat
 
 - Mô hình Chat của OpenAI
 - Thử nghiệm nhiều mô hình khác nhau
@@ -8,11 +8,11 @@
 - Cấu hình mô hình
 - Lưu trữ dữ liệu với Firestore
 
-### 2. Mẫu Prompt (Prompt Templates)
+### 2. Mẫu Prompt
 
 - Mẫu prompt cơ bản
 
-### 3. Chuỗi (Chains)
+### 3. Chuỗi
 
 - LCEL
 - Chuỗi tuần tự (Sequential chains)
@@ -22,7 +22,7 @@
 
 ## Cài đặt
 
-Sao chép (clone) kho lưu trữ:
+Clone repo:
 
 ```bash
 git clone https://github.com/Tinnnn-vn/langchain-guide.git
